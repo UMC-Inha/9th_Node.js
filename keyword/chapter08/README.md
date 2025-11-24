@@ -1,7 +1,7 @@
 - Swagger
   https://yozm.wishket.com/magazine/detail/2195/
   ***
-  ## Swagger가 등장하기 전 문제점
+  ## Swagger가 등장하기 전 문제점.
   ![image.png](attachment:af186e11-e137-4b93-997a-51666c98b56c:image.png)
   - 프론트엔드와 백엔드가 **문서(노션/구글독스/엑셀 등)** 로 API 정보를 주고받음
   - 백엔드가 URL, Request, Response를 **직접 수기로 작성**해야 함 → 오류·누락 많음
